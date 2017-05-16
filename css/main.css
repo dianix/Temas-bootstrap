@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+nav {
+    padding: 0 5%;
+}
+
+#jumbo {
+    margin-top: 5%;
+}
+
+#botones div {
+    margin-bottom: .7em;
+}
