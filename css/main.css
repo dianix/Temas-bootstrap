@@ -11,6 +11,6 @@ nav {
     margin-top: 5%;
 }
 
-#botones div {
+#botones div, #tablas div {
     margin-bottom: .7em;
 }
